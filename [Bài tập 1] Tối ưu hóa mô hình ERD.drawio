@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="sfqS_N8UpWVJ023_utUP">
+    <mxGraphModel dx="774" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="50" width="60" x="320" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="135" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="490" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="70" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="620" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="KIF2onR3vBhh8ERLjAFo-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
+          <mxGeometry height="30" width="60" x="580" y="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
